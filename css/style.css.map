@@ -1,9 +1,8 @@
 {
     "version": 3,
-    "mappings": "ACAA,AAAA,OAAO,CAAC;EACN,gBAAgB,EAAE,GAAG;CAAG;;ADQ1B,AAAA,OAAO,CAAC;EACN,gBAAgB,EAAE,GAAG;CAAG",
+    "mappings": "",
     "sources": [
-        "../sass/style.sass",
-        "../sass/blocks/_header.sass"
+        "../sass/style.sass"
     ],
     "names": [],
     "file": "style.css"
